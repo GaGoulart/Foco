@@ -3,8 +3,9 @@
     padding: 0;
 }
 body{
-    background-color: aquamarine;
+    background-color: #f4f4f4;
 }
+
 .header{
     width: auto;
     height: 40px;
@@ -141,3 +142,96 @@ h2{
     max-width: 100%;
     text-transform: uppercase;
 }
+
+
+h3{
+    font-size: 30px;
+    font-weight: 600;
+    margin-top: 45px;
+    color: #353535;
+    margin-left: 20px;
+    margin-right: 7%;
+}
+.botao_h3{
+    float: right;
+    border: solid 1px #353535;
+    border-radius: 4px;
+    margin-left: 5px;
+    background-color: transparent;
+    color: #353535;
+    font-size: 14px;
+    font-weight: 600;
+    padding: 2px 12px;
+    cursor: pointer;
+    padding-right: 10px;
+    
+}
+
+.card{
+    width: auto;
+    height: 100%;
+    margin-top: 45px;
+    display: flex;
+    margin-bottom: 100px;
+    justify-content: space-evenly;  
+}
+
+h4{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    color: #fff !important;
+}
+.card1{
+    width: 250px;
+    height: 180px;
+    background-image: url(https://portal.fmu.br/wp-content/uploads/cursos/direito/thumb/graduacao_direito_thumb.jpg);
+    text-align: center;
+    border-radius: 6px;
+}
+.card2{
+    width: 250px;
+    height: 180px;
+    background-image: url(https://portal.fmu.br/wp-content/uploads/cursos/enfermagem/thumb/graduacao_enfermagem_thumb.jpg);
+    text-align: center;
+    border-radius: 6px;
+}
+.card3{
+    width: 250px;
+    height: 180px;
+    background-image: url(https://portal.fmu.br/wp-content/uploads/cursos/psicologia/thumb/graduacao_psicologia_thumb.jpg);
+    text-align: center;
+    border-radius: 6px;
+}
+.card4{
+    width: 250px;
+    height: 180px;
+    background-image: url(https://portal.fmu.br/wp-content/uploads/cursos/administracao/thumb/graduacao_administracao_thumb.jpg);
+    text-align: center;
+    border-radius: 6px;
+}
+
+.button_ver_todos{
+    font-size: 24px;
+    font-weight: 600;
+    padding: 7px 42px;
+    color: #fff;
+    background-color: #ff3943;
+    border-color: #ff3943;
+    text-align: center;
+}
+
+.header3{
+    
+    width: 100%;
+    height: 500px;
+    background-color: #353535;
+}
+
+
+
+
+
+
+
