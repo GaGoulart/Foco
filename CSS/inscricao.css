@@ -1,0 +1,94 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Poppins;
+}
+body{
+    background-color: #f4f4f4;
+}
+.header{
+    width: auto;
+    background-color: black;
+    height: 60px;
+    display: flex;
+    padding-left: 200px;
+    padding-right: 20px;
+}
+.img_incricao{
+    width: 200px;
+    height: 60px;
+    display: flex;
+    align-items: center;
+}
+.nav{
+    width: auto;
+    height: 690px;
+    display: flex;
+}
+.nav_um{
+    width: 50%;
+    color: #5e5e5e;
+    text-align: center;
+    align-items: center;
+    padding-top: 100px;
+    padding-left: 100px;
+}
+.nav_dois{
+    width: 50%;
+    padding-top: 100px;
+}
+h1{
+    font-size: 32px;
+}
+h2{
+    font-size: 19px;
+}
+.form-label{
+    color: #212529;
+    font-size: 16px;
+}
+.form_CPF{
+    border-radius: 15px;
+    border-color: #d0d6d1;
+    line-height: 2.2;
+    display: block;
+    width: 70%;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+}
+p{
+    color: #6c757d;
+    font-size: 1em;
+}
+.btn_enviar{
+    border-radius: 15px;
+    background: #ff3943;
+    color: white;
+    width: 73%;
+    padding: 8px 16px;
+    font-size: 1.25rem;
+    border: none;
+}
+.apps{
+    display: flex;
+}
+.imagem_whats{
+    width: 30px;
+    height: 30px;
+    padding-left: 30px;
+    padding-top: 15px;
+}
+b{
+    color: white;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    padding-left: 10px;
+    font-size: 13px;
+}
